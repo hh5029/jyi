@@ -647,6 +647,11 @@ figure figcaption p {
   text-shadow: #97b4b8 1px 1px, #97b4b8 2px 2px, #97b4b8 3px 3px, #97b4b8 4px 4px, #97b4b8 5px 5px, #97b4b8 6px 6px, #97b4b8 7px 7px, #97b4b8 8px 8px, #97b4b8 9px 9px, #97b4b8 10px 10px, #97b4b8 11px 11px, #97b4b8 12px 12px, #97b4b8 13px 13px, #97b4b8 14px 14px, #97b4b8 15px 15px, #97b4b8 16px 16px, #97b4b8 17px 17px, #97b4b8 18px 18px, #97b4b8 19px 19px, #97b4b8 20px 20px, #97b4b8 21px 21px, #97b4b8 22px 22px, #97b4b8 23px 23px, #97b4b8 24px 24px, #97b4b8 25px 25px, #97b4b8 26px 26px, #97b4b8 27px 27px, #97b4b8 28px 28px, #97b4b8 29px 29px, #97b4b8 30px 30px, #97b4b8 31px 31px, #97b4b8 32px 32px, #97b4b8 33px 33px, #97b4b8 34px 34px, #97b4b8 35px 35px, #97b4b8 36px 36px, #97b4b8 37px 37px, #97b4b8 38px 38px, #97b4b8 39px 39px, #97b4b8 40px 40px, #97b4b8 41px 41px, #97b4b8 42px 42px, #97b4b8 43px 43px, #97b4b8 44px 44px, #97b4b8 45px 45px, #97b4b8 46px 46px, #97b4b8 47px 47px, #97b4b8 48px 48px, #97b4b8 49px 49px, #97b4b8 50px 50px, #97b4b8 51px 51px, #97b4b8 52px 52px, #97b4b8 53px 53px, #97b4b8 54px 54px, #97b4b8 55px 55px, #97b4b8 56px 56px, #97b4b8 57px 57px, #97b4b8 58px 58px, #97b4b8 59px 59px, #97b4b8 60px 60px, #97b4b8 61px 61px, #97b4b8 62px 62px, #97b4b8 63px 63px, #97b4b8 64px 64px, #97b4b8 65px 65px, #97b4b8 66px 66px, #97b4b8 67px 67px, #97b4b8 68px 68px, #97b4b8 69px 69px, #97b4b8 70px 70px, #97b4b8 71px 71px, #97b4b8 72px 72px, #97b4b8 73px 73px, #97b4b8 74px 74px, #97b4b8 75px 75px, #97b4b8 76px 76px, #97b4b8 77px 77px, #97b4b8 78px 78px, #97b4b8 79px 79px, #97b4b8 80px 80px, #97b4b8 81px 81px, #97b4b8 82px 82px, #97b4b8 83px 83px, #97b4b8 84px 84px, #97b4b8 85px 85px, #97b4b8 86px 86px, #97b4b8 87px 87px, #97b4b8 88px 88px, #97b4b8 89px 89px, #97b4b8 90px 90px, #97b4b8 91px 91px, #97b4b8 92px 92px, #97b4b8 93px 93px, #97b4b8 94px 94px, #97b4b8 95px 95px, #97b4b8 96px 96px, #97b4b8 97px 97px, #97b4b8 98px 98px, #97b4b8 99px 99px, #97b4b8 100px 100px;
 }
 
+.media-heading {
+  margin-top: 28px;
+  margin-bottom: 5px;
+}
+
 .wrapper_404 h1 {
   font-size: 200px;
   color: #02bdd5;
